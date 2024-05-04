@@ -6,5 +6,7 @@ This project aims to develop a deep-learning model for medical image segmentatio
 Problem Statement and Objectives:
 The problem statement involves automating the process of tumor detection in medical images to assist healthcare professionals in diagnosis and treatment planning. The objectives are to:
 1)Develop an accurate segmentation model.
+
 2)Evaluate the model's performance using relevant metrics.
+
 3)Provide a user-friendly interface for running the model on new medical images
